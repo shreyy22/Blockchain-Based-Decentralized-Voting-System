@@ -6,4 +6,5 @@ https://metamask.io/
 
 Commands :-
 truffle migrate --reset
+npm -i
 npm run dev
